@@ -1,0 +1,30 @@
+body {
+    background-color: gold;
+
+}
+
+
+h1 {
+   color: brown;
+
+}
+div {
+    width: 940px;
+    background-color: ghostwhite;
+     float: left;
+     margin: 20px;
+}
+   
+    img {
+        width: 85%;
+        margin: 5%;
+    }
+
+    .OneNotice{
+        border: solid 3px black;
+}
+.Title{
+    text-align: center;
+    border: solid 3px rgb(0, 0, 0);
+    background-color: rgba(16, 222, 33, 0.888);
+}
